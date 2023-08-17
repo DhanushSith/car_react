@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/car_react/static/css/main.b18fa70b.css",
+    "main.js": "/car_react/static/js/main.e51432f1.js",
+    "static/js/787.87cb38de.chunk.js": "/car_react/static/js/787.87cb38de.chunk.js",
+    "static/media/banner-Img.jpg": "/car_react/static/media/banner-Img.a16f027e7b1d1743a65c.jpg",
+    "static/media/get-final-price-banner.jpg": "/car_react/static/media/get-final-price-banner.a3c723f6f9865ac216e8.jpg",
+    "static/media/honda_4_side.jpg": "/car_react/static/media/honda_4_side.7efc91f3554dffad176c.jpg",
+    "static/media/honda_1_side.jpg": "/car_react/static/media/honda_1_side.68d39bafc28c02095ade.jpg",
+    "static/media/honda_2_side.jpg": "/car_react/static/media/honda_2_side.927759ffe1eaadc087da.jpg",
+    "static/media/honda_3_side.jpg": "/car_react/static/media/honda_3_side.267795a0a7d1fff33df5.jpg",
+    "static/media/skoda1681982956420.jpg": "/car_react/static/media/skoda1681982956420.4753d6b418c39896ee73.jpg",
+    "static/media/download.png": "/car_react/static/media/download.616d0ddec02bc66795a8.png",
+    "static/media/bike.png": "/car_react/static/media/bike.be62bd7bb7c7a4da7cbd.png",
+    "static/media/download (1).png": "/car_react/static/media/download (1).f872e5bef62b94f2c036.png",
+    "static/media/download (2).png": "/car_react/static/media/download (2).fe96569291bec308e573.png",
+    "static/media/land-rover1647236056893.jpg": "/car_react/static/media/land-rover1647236056893.8248cdfd728f01c82a9c.jpg",
+    "static/media/logo.svg": "/car_react/static/media/logo.0ff7328b9ff2e0d4e8efd6402c346d0b.svg",
+    "static/media/slick.svg": "/car_react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/car_react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/car_react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/car_react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/car_react/index.html",
+    "main.b18fa70b.css.map": "/car_react/static/css/main.b18fa70b.css.map",
+    "main.e51432f1.js.map": "/car_react/static/js/main.e51432f1.js.map",
+    "787.87cb38de.chunk.js.map": "/car_react/static/js/787.87cb38de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18fa70b.css",
+    "static/js/main.e51432f1.js"
+  ]
+}
